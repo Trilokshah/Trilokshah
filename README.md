@@ -16,4 +16,4 @@ I'm a Python Developer with a passion for Machine Learning, Data Science, Cloud 
 - Email: [shahtrilok101@gmail.com](mailto:shahtrilok101@gmail.com)
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Trilokshah&show_icons=true&theme=radical)
