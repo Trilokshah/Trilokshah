@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Trilok Shah 👋
 
-<!--
-**Trilokshah/Trilokshah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a Python Developer with a passion for Machine Learning, Data Science, Cloud Computing.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Programming Languages: Python, JavaScript, etc.
+- Frameworks: React, Django, etc.
+- Tools: Git, Docker, etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/trilok-shah)
+
+## 📫 Contact
+- Email: [your-email@example.com](mailto:shahtrilok101@gmail.com)
+
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
